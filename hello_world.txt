@@ -1,0 +1,2 @@
+Hello World!
+This is an exercise of the Odin Project.
